@@ -1,0 +1,222 @@
+Photoshop ************************************************
+command
+
+              precision    recall  f1-score   support
+
+      appear       0.76      0.73      0.74        44
+       click       0.88      0.95      0.91       620
+   disappear       0.57      0.36      0.44        11
+        drag       0.93      0.78      0.85       387
+       hover       0.40      0.67      0.50         3
+  scrolldown       1.00      0.47      0.64        15
+    scrollup       1.00      0.57      0.73         7
+      select       0.77      0.85      0.80        39
+        type       0.67      0.55      0.60        11
+      zoomin       0.73      0.64      0.68       259
+     zoomout       0.60      0.75      0.67       233
+
+    accuracy                           0.76      1629
+   macro avg       0.75      0.66      0.69      1629
+weighted avg       0.82      0.81      0.81      1629
+
+widget
+
+              precision    recall  f1-score   support
+
+      button       0.84      0.84      0.84       363
+    checkbox       0.71      0.71      0.71        14
+    dropdown       0.52      0.76      0.62        29
+        icon       0.84      0.83      0.83       293
+       image       0.94      0.94      0.94       680
+      others       0.86      0.79      0.82        92
+        page       0.68      1.00      0.81        15
+       popup       0.52      0.55      0.53        22
+         tab       1.00      1.00      1.00        16
+        text       0.75      0.65      0.70        75
+      window       0.96      0.77      0.85        30
+
+    accuracy                           0.86      1629
+   macro avg       0.78      0.80      0.79      1629
+weighted avg       0.87      0.86      0.86      1629
+
+location
+
+{"Bleu_1": 0.630816451810772, "Bleu_2": 0.5280283149157348, "Bleu_3": 0.4346212529141636, "Bleu_4": 0.3484451436964683, "METEOR": 0.46101106475707654, "ROUGE_L": 0.6306936771025169, "CIDEr": 1.8898552873286976}
+
+Windows 10 settings ************************************************
+command
+
+              precision    recall  f1-score   support
+
+      appear       0.68      0.72      0.70       259
+       click       0.78      0.87      0.82       550
+   disappear       0.87      0.50      0.64       194
+        drag       0.72      0.68      0.70        95
+       hover       0.78      0.78      0.78       188
+  scrolldown       0.87      0.58      0.70        81
+    scrollup       0.69      0.90      0.78        49
+      select       0.54      0.66      0.59        32
+        type       0.65      0.81      0.72        37
+      zoomin       0.76      0.62      0.68        21
+     zoomout       0.68      0.72      0.70        18
+
+    accuracy                           0.75      1524
+   macro avg       0.73      0.71      0.71      1524
+weighted avg       0.76      0.75      0.75      1524
+
+widget
+
+              precision    recall  f1-score   support
+
+      button       0.69      0.85      0.76       480
+    checkbox       1.00      0.53      0.70        15
+    dropdown       0.93      0.71      0.80        75
+        icon       0.77      0.56      0.65       206
+       image       0.87      0.62      0.72        93
+      others       0.91      0.55      0.69        58
+        page       0.81      0.97      0.88        30
+       popup       0.73      0.73      0.73       263
+         tab       0.88      0.88      0.88         8
+        text       0.73      0.82      0.77       175
+      window       0.83      0.74      0.78       121
+
+    accuracy                           0.75      1524
+   macro avg       0.83      0.72      0.76      1524
+weighted avg       0.76      0.75      0.74      1524
+
+location
+
+{"Bleu_1": 0.5996062992124409, "Bleu_2": 0.4806756503589845, "Bleu_3": 0.3659793537292511, "Bleu_4": 0.2360358803134281, "METEOR": 0.4396595215326683, "ROUGE_L": 0.5993438320209973, "CIDEr": 0.827243519881066}
+
+Firefox ************************************************
+command
+
+              precision    recall  f1-score   support
+
+      appear       0.74      0.80      0.76       421
+       click       0.79      0.73      0.76       331
+   disappear       0.58      0.53      0.55       195
+        drag       0.92      0.80      0.86        61
+       hover       0.81      0.66      0.73        44
+  scrolldown       0.71      0.54      0.62        46
+    scrollup       0.51      0.72      0.60        25
+      select       0.74      0.85      0.79       213
+        type       0.89      0.76      0.82        54
+      zoomin       0.62      0.84      0.71        19
+     zoomout       0.85      0.69      0.76        16
+
+    accuracy                           0.73      1425
+   macro avg       0.74      0.72      0.72      1425
+weighted avg       0.74      0.73      0.73      1425
+
+widget
+
+              precision    recall  f1-score   support
+
+      button       0.71      0.81      0.76       266
+    checkbox       1.00      0.67      0.80         6
+    dropdown       0.65      0.69      0.67       107
+        icon       0.83      0.69      0.75       159
+       image       0.79      0.68      0.73        81
+      others       0.74      0.79      0.76       182
+        page       0.80      0.68      0.74        97
+       popup       0.71      0.83      0.77       157
+         tab       0.82      0.68      0.74        47
+        text       0.85      0.72      0.78       226
+      window       0.75      0.89      0.82        97
+
+    accuracy                           0.76      1425
+   macro avg       0.79      0.74      0.76      1425
+weighted avg       0.76      0.76      0.76      1425
+
+location
+
+{"Bleu_1": 0.6484210526313967, "Bleu_2": 0.5500877123040375, "Bleu_3": 0.44464811430605783, "Bleu_4": 0.27297272325936967, "METEOR": 0.49050676581164016, "ROUGE_L": 0.6484210526315789, "CIDEr": 0.7114594864753088}
+
+Zoom ************************************************
+command
+
+              precision    recall  f1-score   support
+
+      appear       0.69      0.72      0.70       304
+       click       0.78      0.77      0.77       464
+   disappear       0.57      0.47      0.52       157
+        drag       0.96      0.60      0.74        42
+       hover       0.60      0.80      0.69        92
+  scrolldown       0.77      0.53      0.62        19
+    scrollup       0.56      1.00      0.72         9
+      select       0.76      0.74      0.75       191
+        type       0.86      0.86      0.86        50
+      zoomin       0.64      0.75      0.69        12
+     zoomout       0.60      0.75      0.67        12
+
+    accuracy                           0.72      1352
+   macro avg       0.71      0.73      0.70      1352
+weighted avg       0.72      0.72      0.72      1352
+
+widget
+
+              precision    recall  f1-score   support
+
+      button       0.81      0.59      0.68       425
+    checkbox       0.96      0.58      0.72        45
+    dropdown       0.65      0.61      0.63       101
+        icon       0.61      0.75      0.67       209
+       image       0.71      0.31      0.43        16
+      others       0.50      0.74      0.60        19
+        page       0.84      0.69      0.76        55
+       popup       0.70      0.71      0.71       220
+         tab       0.92      0.85      0.88        13
+        text       0.50      0.83      0.63       137
+      window       0.75      0.82      0.79       112
+
+    accuracy                           0.68      1352
+   macro avg       0.72      0.68      0.68      1352
+weighted avg       0.72      0.68      0.69      1352
+
+location
+
+{"Bleu_1": 0.6508875739643043, "Bleu_2": 0.5527974095598257, "Bleu_3": 0.45080550318283036, "Bleu_4": 0.2766952863309083, "METEOR": 0.49089303182851096, "ROUGE_L": 0.6508875739644969, "CIDEr": 0.705616571114543}
+
+Word ************************************************
+command
+
+              precision    recall  f1-score   support
+
+      appear       0.70      0.55      0.62       134
+       click       0.78      0.85      0.81       489
+   disappear       0.49      0.40      0.44        84
+        drag       1.00      0.77      0.87        22
+       hover       0.63      0.78      0.69       105
+  scrolldown       0.78      0.67      0.72        21
+    scrollup       0.75      1.00      0.86         9
+      select       0.87      0.79      0.83       313
+        type       0.76      0.92      0.83        61
+      zoomin       0.94      0.72      0.82        47
+     zoomout       0.77      0.89      0.82        45
+
+    accuracy                           0.77      1330
+   macro avg       0.77      0.76      0.76      1330
+weighted avg       0.77      0.77      0.77      1330
+
+widget
+
+              precision    recall  f1-score   support
+
+      button       0.79      0.85      0.82       498
+    checkbox       0.88      0.60      0.71        25
+    dropdown       0.37      0.70      0.48        53
+        icon       0.73      0.60      0.66       171
+       image       0.89      0.62      0.73        66
+      others       0.80      0.61      0.69        67
+        page       0.68      0.59      0.63        39
+       popup       0.79      0.49      0.61        83
+         tab       1.00      0.93      0.97        30
+        text       0.69      0.79      0.74       192
+      window       0.91      0.94      0.93       106
+
+    accuracy                           0.75      1330
+   macro avg       0.78      0.70      0.72      1330
+weighted avg       0.77      0.75      0.75      1330
+
+{"Bleu_1": 0.6852631578945306, "Bleu_2": 0.5920210466422338, "Bleu_3": 0.49729009712570477, "Bleu_4": 0.3405729853767102, "METEOR": 0.5043157035289149, "ROUGE_L": 0.6851127819548871, "CIDEr": 1.0977756279273472}
