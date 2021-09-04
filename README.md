@@ -1,6 +1,6 @@
 # SeeAction
 
-### Please access `Table_results` to check all experiment results in this paper.
+### Please access [Table_results](https://github.com/zzzzdh/SeeAction/tree/main/Table_results) to check all experiment results in this paper.
 
 ## Dataset
 
