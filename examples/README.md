@@ -1,3 +1,3 @@
-| ![](/examples/ex1.jpg) | 
+| ![](ex1.jpg) | 
 |:--:| 
 
