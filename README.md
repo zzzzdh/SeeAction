@@ -2,6 +2,8 @@
 
 ### Please access [Table_results](https://github.com/zzzzdh/SeeAction/tree/main/Table_results) to check all experiment results in this paper.
 
+### Check examples output by our model [here](https://github.com/zzzzdh/SeeAction/blob/main/examples/README.md)
+
 ## Dataset
 
 ### Please download the dataset [here](https://drive.google.com/file/d/1KXA4SDEfrFP-1GGYtmqE63eWSBTgxDKE/view?usp=sharing).
