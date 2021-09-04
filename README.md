@@ -12,7 +12,7 @@ Note: Please revise all directory in the code to your own directory.
 1. Prepare video data
 2. Run `extract_frame.py` to split video to frames. This step uses ffmpeg. You can install it by `apt-get install ffmpeg`.
 3. Run `com_diff.py` to compute change regions and crop the change regions.
-4. Annotate labels by our tool `label_too.py`
+4. Annotate labels by our tool `label_tool.py`
 
 ## Train
 1. Modify `config.py`
