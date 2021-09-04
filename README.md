@@ -2,6 +2,11 @@
 
 ### Please access `Table_results` to check all experiment results in this paper.
 
+## Dataset
+
+Please download the dataset here.
+You can also construct your own dataset by the following instructions.
+
 ### We provide HD figures for this paper.
 
 | ![](/Fig/structured_example.jpg) | 
