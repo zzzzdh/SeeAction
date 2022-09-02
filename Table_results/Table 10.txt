@@ -1,0 +1,15 @@
+ReproS2R *******************************************
+
+                 HQ  LQ-AS  LQ-VM  LQ-MS  N-S2R
+Participant 1    23    3      3      7      0
+Participant 2    23    4      4      9      0
+Participant 3    23    2      4      8      0
+Union            23.0  3.0    3.6    8.0    0.0    
+
+ReproGAS *******************************************
+
+                 HQ  LQ-AS  LQ-VM  LQ-MS  N-S2R
+Participant 1    14    5      5      14     19
+Participant 2    15    6      6      17     16
+Participant 3    15    5      6      17     21
+Union            14.6  5.3    5.6    16.0   18.6    
