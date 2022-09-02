@@ -26,27 +26,23 @@ Note: Please revise all directory in the code to your own directory.
 |:--:| 
 | *Fig. 1: Examples of structured HCI actions*|
 
-| ![](/Fig/preprocessing.jpg) | 
+| ![](/Fig/model_s.jpg) | 
 |:--:| 
-| *Fig. 2: Compute similarity map and detect change region*|
+| *Fig. 2: Model architecture*|
 
 | ![](/Fig/model.jpg) | 
 |:--:| 
-| *Fig. 3: Model architecture*|
+| *Fig. 2: Model architecture (expand)*|
 
 | ![](/Fig/failure_location.jpg) | 
 |:--:| 
-| *Fig. 4:  Failure examples of location prediction*|
+| *Fig. 3:  Failure examples of location prediction*|
 
 | ![](/Fig/failure_lstm.jpg) | 
 |:--:| 
-| *Fig. 5: Failure example of traditional video captioning*|
-
-| ![](/Fig/failure_zoom.jpg) | 
-|:--:| 
-| *Fig. 6: Failure example of Zoom meeting*|
+| *Fig. 4: Failure example of traditional video captioning*|
 
 | ![](/Fig/pipeline.jpg) | 
 |:--:| 
-| *Fig. 7: Our Screencast-to-ActionScript Tool*|
+| *Fig. 5: Our Screencast-to-ActionScript Tool*|
 
